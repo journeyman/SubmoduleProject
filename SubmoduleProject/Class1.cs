@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SubmoduleProject
 {
-    public class Class
+    public class Class1
     {
     }
 }
